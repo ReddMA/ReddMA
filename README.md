@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReddMA
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning R, Kotlin, Ruby, and Go
 - 💞️ I’m looking to collaborate on any C project or Java project
 - 📫 How to reach me is through my email r3ddaustria@gmail.com
 
