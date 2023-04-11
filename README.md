@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReddMA
-- 🌱 I’m currently learning R, Kotlin, Ruby, and Go
-- 💞️ I’m looking to collaborate on any C project or Java project
+- 🌱 I’m currently learning Kotlin, Go, Prolog, and R
+- 💞️ I’m looking to collaborate on any C project, Java project, or Ruby project
 - 📫 How to reach me is through my email r3ddaustria@gmail.com
 
 <!---
